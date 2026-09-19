@@ -1,5 +1,7 @@
 # Проект «Танчики» (tanks)
 
+GitHub: https://github.com/aesblaze/tanks
+
 Flutter-игра: танковая аркада-лабиринт с бесконечными уровнями.
 Основной код лежит в `lib\` (`main.dart`, `game.dart`, `gamepad.dart`,
 `records.dart`, `save.dart`).
